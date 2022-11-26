@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  supabaseUrl: 'https://btyqwrzzotsdfudemide.supabase.co',
-  supabaseKey: 'GB2cHEJcMxpnLagO',
+  supabaseUrl: 'undefined',
+   supabaseKey: 'undefined'
  }
 
 /*
