@@ -190,3 +190,5 @@ node_modules/
 
 # Local History for Visual Studio
 .localhistory/
+src/environments/environment.ts
+src/environments/environment.prod.ts
